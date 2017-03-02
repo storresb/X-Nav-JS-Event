@@ -4,4 +4,6 @@ Ejercicio de asignaturas de aplicaciones HTML5. Tema JavaScript. Colores con add
 ## Enunciado
 
 En esta práctica se va a utlizar el método addEventListener para visualizar colores según se escribe su código en el campo de texto de un formulario.
-[try me]()
+
+
+[try me](https://github.com/storresb/X-Nav-JS-Event/index.html)
